@@ -146,21 +146,22 @@ nav button {
 .secImg img {
   width: 30vw;
   position: relative;
-  z-index: 10;
+  z-index: 20;
+  right: 25px;
 }
 
 .secImg video {
   position: absolute;
-  top: 80px;
-  right: 5px;
-  width: 440px;
+  top: 70px;
+  right: 65px;
+  width: 360px;
 }
 
 .secImg2 video {
   position: absolute;
   top: 28px;
-  right: 101px;
-  width: 320px;
+  right: 110px;
+  width: 300px;
 }
 
 .first div {
